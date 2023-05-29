@@ -1,1 +1,1 @@
-# tf_module-amazon_mq
+# tf_module_amazon_mq
