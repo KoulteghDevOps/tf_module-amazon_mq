@@ -14,4 +14,5 @@ variable "port_number" {
 }
 # variable "instance_count" {}
 # variable "instance_class" {}
-variable "instance_type" {}
+variable "instance_type"{}
+variable "domain_id" {}
